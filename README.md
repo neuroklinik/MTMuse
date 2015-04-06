@@ -4,3 +4,4 @@ Model "T" Music: a two-voice music player for the Tandy Model "T" series portabl
 .DO files are either encoded music files or non-tokenized Microsoft BASIC.  
 .BA files are tokenized Microsoft BASIC.
 
+See a [video](https://youtu.be/nVfDbFktpxY) of MTMuse in action.
