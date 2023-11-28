@@ -1,1 +1,2 @@
 *.do linguist-language=AsciiDoc
+*.ba linguist-language=BASIC
